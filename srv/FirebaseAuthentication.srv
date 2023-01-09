@@ -1,0 +1,8 @@
+string USER_GROUP_NONE=none
+string token
+time t
+string level
+time end
+---
+bool authenticated
+string user_group

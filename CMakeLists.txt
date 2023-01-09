@@ -115,6 +115,7 @@ add_service_files(
     SetCurrent.srv
     SetTransform.srv
     Record.srv
+    FirebaseAuthentication.srv
 )
 
 add_action_files(
